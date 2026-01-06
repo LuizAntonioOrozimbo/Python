@@ -1,6 +1,7 @@
 # Python-Journey
 
-### Começa aqui, a minha jornada Python
+## Começa aqui, a minha jornada Python
+
  Seja muito bem vindo!  
  Iniciando a jornada Python!  
  Este README, é apenas um teste, e ele sera refeito conforme a norma estabelecida nos Journeys.  
